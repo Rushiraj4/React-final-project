@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6735633.css",
+    "main.js": "/static/js/main.8c914bda.js",
+    "static/media/spider plant.jpg": "/static/media/spider plant.d1ac59bdd9063e3b16bf.jpg",
+    "static/media/image123.jpg": "/static/media/image123.087bcb1821e33df6c4e3.jpg",
+    "static/media/Fiddel Leaf.jpg": "/static/media/Fiddel Leaf.ba1cd7a04b08b554cb2a.jpg",
+    "static/media/boston fern.jpg": "/static/media/boston fern.1f9fabda2a62bac509f5.jpg",
+    "static/media/snake_plant.jpeg": "/static/media/snake_plant.9b5776dde310d6f1e708.jpeg",
+    "static/media/peace lily.png": "/static/media/peace lily.bcf27015d594ae3c35d4.png",
+    "static/media/aloe_vera.jpg": "/static/media/aloe_vera.cb9f484c8b1ed74d2c4c.jpg",
+    "index.html": "/index.html",
+    "main.c6735633.css.map": "/static/css/main.c6735633.css.map",
+    "main.8c914bda.js.map": "/static/js/main.8c914bda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6735633.css",
+    "static/js/main.8c914bda.js"
+  ]
+}
